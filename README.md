@@ -121,7 +121,7 @@ Your story files should contain narrative text that includes character interacti
 
 ![Character Info Output](images/MrHolohan.png)
 ![Character Info Output](images/MaryaVassilyevna.png)
-![Character Info Output](GrigoryPetrov.png)
+![Character Info Output](images/GrigoryPetrov.png)
 
 ## Technical Details
 
