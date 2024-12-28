@@ -119,7 +119,9 @@ Your story files should contain narrative text that includes character interacti
 
 ## Example Output with different characters: 
 
-![Character Info Output](assets/output_example.png)
+![Character Info Output](images/MrHolohan.png)
+![Character Info Output](images/MaryaVassilyevna.png)
+![Character Info Output](GrigoryPetrov.png)
 
 ## Technical Details
 
