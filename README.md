@@ -149,9 +149,3 @@ The tool handles various edge cases:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- LangChain for the assignment opportunity
-- Google for providing the Gemini AI API
-- ChromaDB for the vector database implementation
